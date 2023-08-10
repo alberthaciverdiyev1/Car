@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cars.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cars.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\coloring.css",
+      "PackagePath": "staticwebassets\\assets\\css\\coloring.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\colors\\scheme-01.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\scheme-01.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\jquery.countdown.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.countdown.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\mdb.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\mdb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\elegant_font\\HTML_CSS\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\elegant_font\\HTML_CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line-font\\fonts\\et-lined41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\et-line-font\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\et-line-font\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\fonts\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont\\icofont.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\bg-header.html",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\bg-header.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\background\\subheader.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\subheader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\car-single\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\car-single\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\car-single\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\car-single\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\car-single\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\car-single\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\car-single\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\car-single\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\bentley.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\bentley.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\bmw-m5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\bmw-m5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\chevrolet-camaro.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\chevrolet-camaro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\ferrari-enzo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\ferrari-enzo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\ford-raptor.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\ford-raptor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\hyundai-staria.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\hyundai-staria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\jeep-renegade.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\jeep-renegade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\lexus.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\lexus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\mini-cooper.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\mini-cooper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\range-rover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\range-rover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\toyota-rav.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\toyota-rav.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\cars\\vw-polo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cars\\vw-polo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\1-green.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\1-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\2-green.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\2-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\3-green.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\3-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\4-green.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\4-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\icons\\briefcase.html",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\briefcase.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\misc\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\misc\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\misc\\car-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\misc\\car-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\misc\\car.png",
+      "PackagePath": "staticwebassets\\assets\\images\\misc\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\misc\\e1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\misc\\e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\misc\\e2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\misc\\e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\misc\\map.png",
+      "PackagePath": "staticwebassets\\assets\\images\\misc\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-2\\pic-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-2\\pic-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-2\\pic-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-2\\pic-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-2\\pic-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-2\\pic-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-2\\pic-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-2\\pic-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-2\\pic-blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-2\\pic-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-2\\pic-blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-2\\pic-blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-thumbnail\\pic-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-thumbnail\\pic-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-thumbnail\\pic-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-thumbnail\\pic-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-thumbnail\\pic-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-thumbnail\\pic-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news-thumbnail\\pic-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news-thumbnail\\pic-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\big.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\pic-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\pic-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\pic-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\pic-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\pic-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\pic-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\pic-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\pic-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\pic-blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\pic-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\news\\pic-blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\news\\pic-blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\people\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\people\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\people\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\people\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\people\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\arrows.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\arrows.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\balls.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\balls.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\gear.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\gear.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\hatchway.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\hatchway.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\pacman.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\pacman.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\petals.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\petals.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\segments.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\segments.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\stars.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\stars.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\stopwatch.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\stopwatch.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\timer.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\timer.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\triplex.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\triplex.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\preloader\\twirl.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\preloader\\twirl.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\profile\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\select-form\\car.png",
+      "PackagePath": "staticwebassets\\assets\\images\\select-form\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\select-form\\minibus.png",
+      "PackagePath": "staticwebassets\\assets\\images\\select-form\\minibus.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\select-form\\sportscar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\select-form\\sportscar.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\select-form\\van.png",
+      "PackagePath": "staticwebassets\\assets\\images\\select-form\\van.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\svg\\facebook_icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\facebook_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\svg\\google_icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\google_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\testimonial\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\ui\\arrow-down-form-hover.html",
+      "PackagePath": "staticwebassets\\assets\\images\\ui\\arrow-down-form-hover.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\ui\\arrow-down-form.html",
+      "PackagePath": "staticwebassets\\assets\\images\\ui\\arrow-down-form.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\ui\\arrow-down-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ui\\arrow-down-light.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\ui\\arrow-down.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ui\\arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\ui\\arrow-up-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ui\\arrow-up-light.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images\\ui\\arrow-up.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ui\\arrow-up.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\close-2.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\close-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\close.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\close.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\dotted.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\dotted.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\icon-slide-min.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\icon-slide-min.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\icon-slide-plus.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\icon-slide-plus.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\icon-url.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\icon-url.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\icon-zoom.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\icon-zoom.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\images_02\\list-arrow.html",
+      "PackagePath": "staticwebassets\\assets\\images_02\\list-arrow.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\js\\designesia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\designesia.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Cars\\Cars\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cars.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cars.props",
+      "PackagePath": "build\\Cars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cars.props",
+      "PackagePath": "buildMultiTargeting\\Cars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cars.props",
+      "PackagePath": "buildTransitive\\Cars.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
