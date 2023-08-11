@@ -49,11 +49,9 @@
                                 <ul id="mainmenu">
                                     <li>
                                         <a asp-action="index" asp-controller="home" class="menu-item">Home</a>
-                                       
                                     </li>
                                     <li>
                                         <a asp-action="index" asp-controller="cars" class="menu-item">Cars</a>
-                                       
                                     </li>
                                     <li><a asp-action="contactus" asp-controller="home" class="menu-item">Contact us</a></li>
                                     <li><a asp-action="aboutus" asp-controller="home" class="menu-item">About us</a></li>
@@ -72,7 +70,7 @@
                                             <li><a class="menu-item" href="about.html">About Us</a></li>
                                             <li><a class="menu-item" href="contact.html">Contact</a></li>
                                             <li><a asp-action="login" asp-controller="account" class="menu-item">Login</a></li>
-                                            <li><a asp-action="register" asp-controller="account" class="menu-item" >Register</a></li>
+                                            <li><a asp-action="register" asp-controller="account" class="menu-item">Register</a></li>
                                             <li><a class="menu-item" href="404.html">Page 404</a></li>
                                         </ul>
                                     </li>
@@ -99,34 +97,41 @@
                                     </li>
                                     <li>
                                         <a class="menu-item" href="#">Elements</a>
-                                        <ul>
-                                            <li><a class="menu-item" href="preloader.html">Preloader</a></li>
-                                            <li><a class="menu-item" href="icon-boxes.html">Icon Boxes</a></li>
-                                            <li><a class="menu-item" href="badge.html">Badge</a></li>
-                                            <li><a class="menu-item" href="counters.html">Counters</a></li>
-                                            <li><a class="menu-item" href="gallery-popup.html">Gallery Popup</a></li>
-                                            <li><a class="menu-item" href="icons-elegant.html">Icons Elegant</a></li>
-                                            <li><a class="menu-item" href="icons-etline.html">Icons Etline</a></li>
-                                            <li><a class="menu-item" href="icons-font-awesome.html">Icons Font Awesome</a></li>
-                                            <li><a class="menu-item" href="map.html">Map</a></li>
-                                            <li><a class="menu-item" href="modal.html">Modal</a></li>
-                                            <li><a class="menu-item" href="popover.html">Popover</a></li>
-                                            <li><a class="menu-item" href="tabs.html">Tabs</a></li>
-                                            <li><a class="menu-item" href="tooltips.html">Tooltips</a></li>
-                                        </ul>
                                     </li>
                                 </ul>
                             </div>
-                            <div class="de-flex-col">
-                                <div class="menu_side_area">
-                                    <a asp-action="login" asp-controller="account" class="btn-main">Login</a>
-                                    <span id="menu-btn"></span>
-                                </div>  
-                                <div class="menu_side_area">
-                                    <a asp-action="register" asp-controller="account" class="btn-main">Register</a>
-                                    <span id="menu-btn"></span>
+                            @if (User.Identity.IsAuthenticated)
+                                {
+                                <div class="de-flex-col">
+                                    <div class="menu_side_area">
+                                        <div class="dropdown">
+                                            <button class="btn-main dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                Albert
+                                            </button>
+                                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                <li><a class="dropdown-item" href="news-standart-right-sidebar.html">Right Sidebar</a></li>
+                                                <li><a class="dropdown-item" href="news-standart-left-sidebar.html">Left Sidebar</a></li>
+                                                <li><a class="dropdown-item" href="news-standart-no-sidebar.html">No Sidebar</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
+
+
+                                }
+                            else
+                            {
+                                <div class="de-flex-col">
+                                    <div class="menu_side_area">
+                                        <a asp-action="login" asp-controller="account" class="btn-main">Login</a>
+                                        <span id="menu-btn"></span>
+                                    </div>
+                                    <div class="menu_side_area">
+                                        <a asp-action="register" asp-controller="account" class="btn-main">Register</a>
+                                        <span id="menu-btn"></span>
+                                    </div>
+                                </div>
+                            }
                         </div>
                     </div>
                 </div>

@@ -1,4 +1,5 @@
-﻿  <!-- content begin -->
+﻿@model LoginVM
+<!-- content begin -->
 <div class="no-bottom no-top" id="content">
     <div id="top"></div>
     <section id="section-hero" aria-label="section" class="jarallax">
@@ -11,12 +12,14 @@
                         <div class="padding40 rounded-3 shadow-soft" style="background-color:#111111">
                             <h4>Login</h4>
                             <div class="spacer-10"></div>
-                            <form id="form_register" class="form-border" method="post" >
+                            <form id="form_register" class="form-border" method="post">
                                 <div class="field-set">
-                                    <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" />
+                                    <input asp-for="UsernameOrEmail" type="text" name="UsernameOrEmail" id="UsernameOrEmail" class="form-control" placeholder="Username Or Email" />
+                                    <span asp-validation-for="UsernameOrEmail"></span>
                                 </div>
                                 <div class="field-set">
-                                    <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" />
+                                    <input asp-for="Password" type="password" name="password" id="password" class="form-control" placeholder="Password" />
+                                    <span asp-validation-for="Password"></span>
                                 </div>
                                 <div id="submit">
                                     <input type="submit" id="send_message" value="Sign In" class="btn-main btn-fullwidth rounded-3" />

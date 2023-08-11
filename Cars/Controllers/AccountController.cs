@@ -32,6 +32,11 @@ namespace Cars.Controllers
         [HttpPost]
         public async Task<ActionResult> Register(RegisterVM register)
         {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+
             AppUser user = new AppUser
             {
                 Name = register.Name,
@@ -40,18 +45,19 @@ namespace Cars.Controllers
                 Phone = register.Phone,
                 ProfileImageURL = register.ProfileImageURL,
                 Email = register.Email,
+                CreatedAt = DateTime.Now,
             };
-            IdentityResult result = await _userManager.CreateAsync(user,register.Password);
+            IdentityResult result = await _userManager.CreateAsync(user, register.Password);
             if (!result.Succeeded)
             {
-                foreach(var error in result.Errors)
+                foreach (var error in result.Errors)
                 {
                     ModelState.AddModelError(string.Empty, error.Description);
                 }
             }
             await _signInManager.SignInAsync(user, isPersistent: false);
 
-            return RedirectToAction("Index","Home");
+            return RedirectToAction("Index", "Home");
         }
 
 
@@ -59,6 +65,32 @@ namespace Cars.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public async Task<ActionResult> Login(LoginVM login)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            AppUser user = await _userManager.FindByNameAsync(login.UsernameOrEmail);
+            if (user == null)
+            {
+                user = await _userManager.FindByEmailAsync(login.UsernameOrEmail);
+                if (user == null)
+                {
+                    ModelState.AddModelError(string.Empty, "Username, Email or Password is Incorrect");
+                    return View();
+                }
+            }
+            var result = await _signInManager.PasswordSignInAsync(user, login.Password, login.RememberMe, false);
+            if (!result.Succeeded)
+            {
+                ModelState.AddModelError(string.Empty, "Username, Email or Password is Incorrect");
+                return View();
+            }
+            return RedirectToAction("Index", "Home");
+        }
+
 
         // GET: AccountController/Create
         public ActionResult Create()
